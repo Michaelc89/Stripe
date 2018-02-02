@@ -24,7 +24,8 @@ namespace stripeTestReal
             //var payment = Stripe.StripeCharge.(amount);
             try
             {
-
+                //use nu-get Stripe
+                //set TLS 1.2 in androuid settings
 
                 StripeConfiguration.SetApiKey("sk_test_BEPrGyKARA5fbK1rcLbAixdd");
 
